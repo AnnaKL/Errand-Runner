@@ -1,0 +1,42 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/mollie/Makers/Errand-Runner/lib/api_constraints.rb": [
+        1,
+        1,
+        1,
+        1,
+        null,
+        null,
+        1,
+        0,
+        null,
+        null
+      ],
+      "/Users/mollie/Makers/Errand-Runner/app/models/user.rb": [
+        1,
+        1,
+        null,
+        null,
+        1,
+        null,
+        null,
+        1,
+        null,
+        1,
+        null,
+        1,
+        null,
+        0,
+        0,
+        null,
+        null
+      ],
+      "/Users/mollie/Makers/Errand-Runner/app/helpers/application_helper.rb": [
+        1,
+        null
+      ]
+    },
+    "timestamp": 1436011140
+  }
+}
